@@ -1,2 +1,3 @@
 # BMI_Calculator
 Build BMI Calculator with Html , CSS and JS
+The MBI (Body Mass Index) Calculator is a simple yet effective software application designed to calculate an individual’s body mass index based on height and weight. BMI is a widely used indicator to assess whether a person has a healthy body weight relative to their height. This project demonstrates the application of basic programming concepts, user input handling, conditional logic, and health-related data interpretation. The system provides users with instant feedback regarding their BMI category, helping raise awareness about health and fitness.
